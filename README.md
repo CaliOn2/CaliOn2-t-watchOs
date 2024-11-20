@@ -5,4 +5,4 @@ this is by no means complete and might never receive future updates so I implore
 https://www.youtube.com/@StrangeLoopConf for some interesting insights about how to have fun coding)
 
 ## Video
-![Video of the watch in action](https://github.com/CaliOn2/CaliOn2-t-watchOs/blob/main/Preview.mp4)
+![Video of the watch in action](https://github.com/CaliOn2/CaliOn2-t-watchOs/blob/main/Media/Preview.mp4)
