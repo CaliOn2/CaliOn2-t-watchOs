@@ -9,6 +9,6 @@ https://www.youtube.com/@StrangeLoopConf for some interesting insights about how
 
 ## Pictures
 
-![Picture1](https://github.com/CaliOn2/CaliOn2-t-watchOs/blob/main/Media/Preview.mp4)
-![Picture2](https://github.com/CaliOn2/CaliOn2-t-watchOs/blob/main/Media/Preview.mp4)
-![Picture3](https://github.com/CaliOn2/CaliOn2-t-watchOs/blob/main/Media/Preview.mp4)
+![Picture1](https://github.com/CaliOn2/CaliOn2-t-watchOs/blob/main/Media/AppSelect.jpg)
+![Picture2](https://github.com/CaliOn2/CaliOn2-t-watchOs/blob/main/Media/IrTvOff.jpg)
+![Picture3](https://github.com/CaliOn2/CaliOn2-t-watchOs/blob/main/Media/Shell.jpg)
